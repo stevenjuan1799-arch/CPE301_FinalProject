@@ -1,5 +1,7 @@
 # CPE301_FinalProject
-Final Project Repository
 
-Steven Juan CPE Final Project
+UNR CPE 301
 Group 63
+
+Steven Juan
+
